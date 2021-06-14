@@ -1,22 +1,37 @@
-## 欢迎您使用微录
+## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/microrecorder/AudioRecorder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-####专业的录音及录音转文字软件，记录会议、演讲、采访、上课等，满足您在不同场景的录音需求。
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-####[语音录制]  
-高品质录音，记录真实语音场景。
+### Markdown
 
-####[录音导出]  
-支持多种格式的导出文件，支持分享到多应用。
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-####[语音转文字]  
-支持录音文件转文本（多语言），支持任意时间点的转文本，支持一键复制文本内容，轻松管理文本内容。
+```markdown
+Syntax highlighted code block
 
-####[录音管理]  
-支持删除、波形图预览、删除等操作。
+# Header 1
+## Header 2
+### Header 3
 
-随时随地，轻松记录你的有声世界。
- 
+- Bulleted
+- List
 
-####[联系我们]  
-Email:  641066509@qq.com
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/microrecorder/AudioRecorder/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
